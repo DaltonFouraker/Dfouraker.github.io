@@ -30,12 +30,12 @@ body {
 
 header {
     width: 910px;	/* reduced by 20px to accommodate shadow */
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     margin-top: 10px;
     text-align: center;
     border: 1px solid #888888;
     box-shadow: 15px 15px 5px 0 #888888;
-    border-radius: 25px;  	
+      	
 }
 
 nav {
@@ -76,6 +76,15 @@ nav ul li a:hover {
 
 #main p {
     text-indent: 1.5em;
+}
+
+table {
+	display: table;
+	border-collapse: seperate
+	box-sizing: border-box;
+	text-indent: initial;
+	border-spacing: 2px;
+	border-color: gray;
 }
 
 figure{
