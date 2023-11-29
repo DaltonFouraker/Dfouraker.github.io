@@ -71,11 +71,11 @@ nav ul li a:hover {
     color: black;
     border-left: 2px solid;
     border-right: 2px solid;    
-    background-image: url(images/ricepaper.jpg); 
+     
 }
 
 #main p {
-    text-indent: 1.5em;
+    text-indent: 1.0em;
 }
 
 table {
