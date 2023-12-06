@@ -35,7 +35,12 @@ header {
     text-align: center;
     border: 1px solid #888888;
     box-shadow: 15px 15px 5px 0 #888888;
+	border-radius: 25px;
       	
+}
+
+header img {
+	border-radius: 25px;
 }
 
 nav {
@@ -56,6 +61,7 @@ nav ul li a {
     color: gray;
     text-decoration: none;
     display:block;
+	
 }
 
 nav ul li a:hover {
@@ -80,7 +86,7 @@ nav ul li a:hover {
 
 table {
 	display: table;
-	border-collapse: seperate
+	border-collapse: separate;
 	box-sizing: border-box;
 	text-indent: initial;
 	border-spacing: 2px;
